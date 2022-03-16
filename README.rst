@@ -4,16 +4,13 @@ Cookiecutter Python Package Template with Pipenv
 
 |travis| |donate|
 
-.. |travis| image:: https://img.shields.io/travis/com/elgertam/cookiecutter-pipenv.svg
-    :target: https://travis-ci.com/elgertam/cookiecutter-pipenv
-
 .. |donate| image:: https://img.shields.io/badge/donate-PayPal-blue.svg?logo=paypal
     :target: https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=CPTWMKWMVXDQW&currency_code=USD&source=url
 
 
 Cookiecutter_ template for a Python package with Pipenv_.
 
-* GitHub repo: https://github.com/elgertam/cookiecutter-pipenv/
+* GitHub repo: https://github.com/beenhazed/cookiecutter-pipenv/
 * Documentation: https://cookiecutter-pipenv.readthedocs.io/
 * Free software: BSD license
 
@@ -56,7 +53,7 @@ Install the latest Pipenv::
 
 Generate a Python project that uses Pipenv::
 
-    cookiecutter gh:elgertam/cookiecutter-pipenv
+    cookiecutter gh:beenhazed/cookiecutter-pipenv
 
 Once your project has been created, change directories::
 
